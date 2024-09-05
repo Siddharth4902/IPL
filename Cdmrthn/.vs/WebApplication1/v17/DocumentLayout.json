@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\dao\\playerdaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:dao\\playerdaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\models\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:models\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D92351-8953-4274-A521-729E6529F2DC}|..\\WebApiTesting\\WebApiTesting.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\webapitesting\\playercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D92351-8953-4274-A521-729E6529F2DC}|..\\WebApiTesting\\WebApiTesting.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\webapitesting\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D92351-8953-4274-A521-729E6529F2DC}|..\\WebApiTesting\\WebApiTesting.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\webapitesting\\webapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\dao\\iplayerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:dao\\iplayerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\data\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:data\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|c:\\users\\siddharth.nagaonkar\\source\\repos\\cdmrthn\\data\\playerrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D37E85-C4DB-4D1A-A71B-C1F3DB00100A}|WebApplication1.csproj|solutionrelative:data\\playerrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:35:44.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\WebApiTesting\\PlayerControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\WebApiTesting\\PlayerControllerTest.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\WebApiTesting\\PlayerControllerTest.cs",
+              "RelativeToolTip": "..\\WebApiTesting\\PlayerControllerTest.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:20:57.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Models\\Match.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Models\\Match.cs",
+              "RelativeToolTip": "Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:36:13.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\WebApiTesting\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\WebApiTesting\\Calculator.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\WebApiTesting\\Calculator.cs",
+              "RelativeToolTip": "..\\WebApiTesting\\Calculator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:00:27.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Models\\Date.cs",
+              "RelativeDocumentMoniker": "Models\\Date.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Models\\Date.cs",
+              "RelativeToolTip": "Models\\Date.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:12:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:11:26.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApiTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\WebApiTesting\\WebApiTesting.csproj",
+              "RelativeDocumentMoniker": "..\\WebApiTesting\\WebApiTesting.csproj",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\WebApiTesting\\WebApiTesting.csproj",
+              "RelativeToolTip": "..\\WebApiTesting\\WebApiTesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T05:20:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Controllers\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:31:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerDAOImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\DAO\\PlayerDAOImplementation.cs",
+              "RelativeDocumentMoniker": "DAO\\PlayerDAOImplementation.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\DAO\\PlayerDAOImplementation.cs",
+              "RelativeToolTip": "DAO\\PlayerDAOImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:09:12.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPlayerDao.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\DAO\\IPlayerDao.cs",
+              "RelativeDocumentMoniker": "DAO\\IPlayerDao.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\DAO\\IPlayerDao.cs",
+              "RelativeToolTip": "DAO\\IPlayerDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:08:44.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Data\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Data\\IPlayerRepository.cs",
+              "RelativeToolTip": "Data\\IPlayerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:10:18.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerRepositoryImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Data\\PlayerRepositoryImplementation.cs",
+              "RelativeDocumentMoniker": "Data\\PlayerRepositoryImplementation.cs",
+              "ToolTip": "C:\\Users\\siddharth.nagaonkar\\source\\repos\\Cdmrthn\\Data\\PlayerRepositoryImplementation.cs",
+              "RelativeToolTip": "Data\\PlayerRepositoryImplementation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:10:56.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
